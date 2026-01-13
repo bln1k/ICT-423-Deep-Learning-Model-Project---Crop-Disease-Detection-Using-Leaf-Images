@@ -13,7 +13,6 @@ Achieves up to **93%** validation accuracy on a reduced 11-class dataset.
 
 ## How to Reproduce
 1. Open the notebook directly in Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bln1k/ICT-423-Deep-Learning-Model-Project---Crop-Disease-Detection-Using-Leaf-Images/blob/main/plant_disease_detection_DL_model.ipynb)
 2. Run cells top to bottom (dependencies are installed in the first cell).
 3. Dataset: Reduced PlantVillage-style (~25k images, 11 classes) – upload to Google Drive and mount it in the notebook. https://drive.google.com/drive/folders/18auhKBpf0fx0eygjdtZpDIJgE1j2G9oO?usp=sharing
 
